@@ -36,6 +36,5 @@
 - checkout <destination-branch>
 - `git merge <source-branch>`
 
-- end for now
 
 
