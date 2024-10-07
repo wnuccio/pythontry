@@ -33,5 +33,8 @@
 - `git checkout <name>`     move on branch
 - `git branch -D <name>`    delete it
 
+- checkout <destination-branch>
+- `git merge <source-branch>`
+
 - end for now
 
