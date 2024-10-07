@@ -33,5 +33,5 @@
 - `git checkout <name>`     move on branch
 - `git branch -D <name>`    delete it
 
-- end for now
+
 
