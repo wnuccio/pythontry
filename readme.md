@@ -8,7 +8,8 @@
 - `code .`
 - `> Python: Create Environment` (select Venv, then the interpreter)
 - ouside the .venv folder, add a file, ex. `prova.py`
--
+- REPL: select a line (in a .py file) and press Shift + Enter
+
 
 # live share
 - click on Live Share down (link is now in clipboard), and pass the link to your mate
